@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EmployeeMangement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB2F578-6F2C-45A0-8913-AF59898BC7AA}|EmployeeMangement\\EmployeeMangement.csproj|e:\\employeemangement\\employeemangement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB2F578-6F2C-45A0-8913-AF59898BC7AA}|EmployeeMangement\\EmployeeMangement.csproj|solutionrelative:employeemangement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB2F578-6F2C-45A0-8913-AF59898BC7AA}|EmployeeMangement\\EmployeeMangement.csproj|e:\\employeemangement\\employeemangement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB2F578-6F2C-45A0-8913-AF59898BC7AA}|EmployeeMangement\\EmployeeMangement.csproj|solutionrelative:employeemangement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\EmployeeMangement\\EmployeeMangement\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EmployeeMangement\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\EmployeeMangement\\EmployeeMangement\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "EmployeeMangement\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:40:20.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\EmployeeMangement\\EmployeeMangement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeeMangement\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\EmployeeMangement\\EmployeeMangement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeeMangement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEQBAAAAMDMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:39:49.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
